@@ -35,7 +35,7 @@ channels:
               headers:
                 my-app-header: 24
               payload:
-                id: '1'
+                id: 1
                 method: 'get_projects'
 components:
   messageTraits:
