@@ -1,3 +1,4 @@
+---
 asyncapi: '2.0.0'
 id: 'urn:io.microcks.example.user-signedup'
 info:
